@@ -1,4 +1,6 @@
 # Javulna
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fadina-nedelcu-ks%2Fjavulna.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fadina-nedelcu-ks%2Fjavulna?ref=badge_shield)
+
 
 ## Table of Contents
 1. [Introduction](#Introduction)
@@ -275,3 +277,7 @@ When found, check the source-code.
 What type of XSS is this?  
 Discuss why this vulnerability exists, and why are there no other XSS vulnerabilties at other places!  
 Fix the vulnerability!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fadina-nedelcu-ks%2Fjavulna.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fadina-nedelcu-ks%2Fjavulna?ref=badge_large)
